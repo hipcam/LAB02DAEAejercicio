@@ -1,0 +1,12 @@
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\bin\Debug\Lab02Alvarado.exe.config
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\bin\Debug\Lab02Alvarado.exe
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\bin\Debug\Lab02Alvarado.pdb
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.csprojAssemblyReference.cache
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.Form1.resources
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.Properties.Resources.resources
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.csproj.GenerateResource.cache
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.csproj.CoreCompileInputs.cache
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.exe
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.pdb
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.Form3.resources
+c:\users\alumno\source\repos\Lab02Alvarado\Lab02Alvarado\obj\Debug\Lab02Alvarado.Form4.resources
